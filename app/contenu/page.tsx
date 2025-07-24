@@ -1,3 +1,7 @@
 export default function Contenu() {
-  return <p>Ceci est du contenu</p>;
+  return (
+    <div>
+      <h1>Contenu</h1>
+    </div>
+  );
 }

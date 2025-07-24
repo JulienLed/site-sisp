@@ -11,7 +11,6 @@ export default function Layout({ children }: { children: ReactNode }) {
       </head>
       <body>
         <Navbar />
-        <h1>Voici ce que le children montre :</h1>
         {children}
       </body>
     </html>
