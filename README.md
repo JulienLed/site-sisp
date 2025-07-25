@@ -1,15 +1,27 @@
-Ok, pour un site d’institution fictive, voilà les features de base que tu devrais prévoir au minimum :
+Pages principales :
+Accueil
+→ Présentation rapide, mission, actu importante.
 
-Page d’accueil — Présentation claire de l’institution, son rôle, ses valeurs.
+À propos / Qui sommes-nous
+→ Histoire, équipe, valeurs.
 
-Page “À propos” — Qui êtes-vous ? Historique, mission, équipe.
+Nos logements
+→ Liste des logements disponibles + filtres (type, localisation...).
 
-Services / Offres — Ce que propose l’institution, avec descriptions.
+Comment postuler / Demande de logement
+→ Explication des démarches + formulaire.
 
-Contact — Formulaire de contact + infos (adresse, téléphone, mail).
+Infos pratiques
+→ FAQ, documents à télécharger, aides disponibles.
 
-Navigation simple — Navbar ou menu pour passer d’une page à l’autre facilement.
+Espace locataire
+→ Connexion locataire, gestion du dossier, paiement loyer, signalement de problème.
 
-Footer — Infos légales, liens importants, réseaux sociaux.
+Contact
+→ Formulaire, téléphone, email, carte Google Maps.
 
-Responsive — Adapté aux mobiles et tablettes (important).
+Actualités
+→ Articles sur les projets, rénovations, événements...
+
+Mentions légales / RGPD
+→ Obligatoire.
