@@ -1,8 +1,10 @@
 export default function Page() {
   return (
     <div>
-      <h1>Alliance Bruxelloise Coopérative</h1>
-      <p></p>
+      <p>
+        Bienvenue sur le site de la SISP ABC, la Coopérative où le logement
+        social se construit avec et pour les habitants.
+      </p>
     </div>
   );
 }

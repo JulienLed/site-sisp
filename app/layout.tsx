@@ -1,5 +1,8 @@
+import "./globals.css";
 import { ReactNode } from "react";
 import Navbar from "@/component/navbar";
+import Image from "next/image";
+import logo from "../public/Logo ABC.png";
 
 export default function Layout({ children }: { children: ReactNode }) {
   return (
@@ -10,8 +13,13 @@ export default function Layout({ children }: { children: ReactNode }) {
         <title>CRM Service Social</title>
       </head>
       <body>
-        <Navbar />
-        {children}
+        <header>
+          <Navbar />
+        </header>
+        <main>{children}</main>
+        <footer>
+          <Image alt="Logo ABC" src={logo} width={238} height={150} />
+        </footer>
       </body>
     </html>
   );

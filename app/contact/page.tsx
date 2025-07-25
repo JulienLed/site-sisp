@@ -1,3 +1,3 @@
-export default function Page() {
-  return <h2>Ceci est la Page dans le dossier contact</h2>;
+export default function Contact() {
+  return <h1>Contact</h1>;
 }

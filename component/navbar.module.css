@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  margin-left: 6vw;
+}
+
+.navbar_links {
+  display: flex;
+  gap: 10vw;
+  margin-top: 2vw;
+}
+
+.navbar_links_services {
+  display: flex;
+  flex-direction: column;
+}
